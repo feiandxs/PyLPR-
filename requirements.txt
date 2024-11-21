@@ -1,0 +1,5 @@
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0  # 包含额外模块如MSER
+numpy>=1.19.0
+Pillow>=8.0.0
+scikit-learn>=0.24.0  # 用于机器学习相关功能
